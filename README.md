@@ -3,3 +3,6 @@
 
 # Just work the notebook from top to bottom. 
   
+---
+
+To open this tool go to the .ipynb file in this repo and click 'open in Colab' at the top. 
